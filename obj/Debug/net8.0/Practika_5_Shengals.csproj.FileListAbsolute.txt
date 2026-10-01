@@ -1,0 +1,14 @@
+C:\Users\st310-10\Desktop\Shengals\Trpo_Code\Practika_5_Shengals\bin\Debug\net8.0\Practika_5_Shengals.exe
+C:\Users\st310-10\Desktop\Shengals\Trpo_Code\Practika_5_Shengals\bin\Debug\net8.0\Practika_5_Shengals.deps.json
+C:\Users\st310-10\Desktop\Shengals\Trpo_Code\Practika_5_Shengals\bin\Debug\net8.0\Practika_5_Shengals.runtimeconfig.json
+C:\Users\st310-10\Desktop\Shengals\Trpo_Code\Practika_5_Shengals\bin\Debug\net8.0\Practika_5_Shengals.dll
+C:\Users\st310-10\Desktop\Shengals\Trpo_Code\Practika_5_Shengals\bin\Debug\net8.0\Practika_5_Shengals.pdb
+C:\Users\st310-10\Desktop\Shengals\Trpo_Code\Practika_5_Shengals\obj\Debug\net8.0\Practika_5_Shengals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-10\Desktop\Shengals\Trpo_Code\Practika_5_Shengals\obj\Debug\net8.0\Practika_5_Shengals.AssemblyInfoInputs.cache
+C:\Users\st310-10\Desktop\Shengals\Trpo_Code\Practika_5_Shengals\obj\Debug\net8.0\Practika_5_Shengals.AssemblyInfo.cs
+C:\Users\st310-10\Desktop\Shengals\Trpo_Code\Practika_5_Shengals\obj\Debug\net8.0\Practika_5_Shengals.csproj.CoreCompileInputs.cache
+C:\Users\st310-10\Desktop\Shengals\Trpo_Code\Practika_5_Shengals\obj\Debug\net8.0\Practika_5_Shengals.dll
+C:\Users\st310-10\Desktop\Shengals\Trpo_Code\Practika_5_Shengals\obj\Debug\net8.0\refint\Practika_5_Shengals.dll
+C:\Users\st310-10\Desktop\Shengals\Trpo_Code\Practika_5_Shengals\obj\Debug\net8.0\Practika_5_Shengals.pdb
+C:\Users\st310-10\Desktop\Shengals\Trpo_Code\Practika_5_Shengals\obj\Debug\net8.0\Practika_5_Shengals.genruntimeconfig.cache
+C:\Users\st310-10\Desktop\Shengals\Trpo_Code\Practika_5_Shengals\obj\Debug\net8.0\ref\Practika_5_Shengals.dll
